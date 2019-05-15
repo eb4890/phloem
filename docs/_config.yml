@@ -17,3 +17,5 @@ github_username:  eb4890
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
