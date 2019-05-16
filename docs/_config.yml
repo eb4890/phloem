@@ -10,11 +10,10 @@ title: Phloem
 email: wil.pearson@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Phloem is a project to make a protocol for the mangement of electricity in small scale applications.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/phloem" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: eb3c90
 github_username:  eb4890
-root: /phloem
 
 # Build settings
 markdown: kramdown
